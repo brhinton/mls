@@ -1,0 +1,28 @@
+# $Id: Makefile.echoserv,v 1.2 2002/05/30 00:56:07 alliz Exp $
+
+# MLStreams
+# Copyright (c) 2001-2002, Bryan Hinton
+# All rights reserved.
+
+include Make.defines
+
+LIBS		= -lpthread -lrt -lnsl -lsocket -lresolv -L$(LIBDIR)/lmscpp
+CPPFLAGS 	= -D_REENTRANT
+
+OBJ = $(ECHOSERV_FILE:cpp=o)
+TARGET = $(ECHOSERV)
+
+all : $(TARGET)
+
+$(TARGET) : $(OBJ)
+	$(CPP) -o $@ $(OBJ) $(LIBS)
+
+.cpp.o :
+	$(CPP) $(CPPFLAGS) -c $(<)
+
+clean :
+	$(RM) -f $(ECHOSERV) *.o *.rpo core
+
+again:
+	$(MAKE) clean
+	$(MAKE) $(ECHOSERV)

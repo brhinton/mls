@@ -1,0 +1,23 @@
+# $Id: Make.defines,v 1.2 2002/05/30 00:56:26 alliz Exp $
+
+# MLStreams
+# Copyright (c) 2001-2002, Bryan Hinton
+# All rights reserved.
+
+MSLIB		= libmscpp.so
+LIBDIR		= /usr/bhinton/lib
+ECHOSERV	= echoserv
+CPP			= g++
+MAKE		= make
+RM			= rm
+
+.SUFFIXES: .cpp .cxx .C .cc
+SUFFIX = .cpp
+#.IGNORE:
+#.SILENT:
+
+########################################################################
+ECHOSERV_FILE	= \
+				echoserv.cpp
+
+########################################################################
