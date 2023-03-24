@@ -1,15 +1,12 @@
 ///////////////////////////////////////////////////////////////
-//
-//  $Id: mlshmbuf.cpp,v 1.3 2002/05/18 21:26:23 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //
 //  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
+//  Copyright (c) 2001-2023, Bryan Hinton
 //  All rights reserved.
 //
 //  mlshmbuf.cpp
 //  Created by Bryan R. Hinton, on Tue Jun 26 2001, 21:51:13 CDT
-//
-//  Copyright (C) 2001
 //
 //  File Contents: Implementation of the mlshmbuf component.
 //  Please see mlshmbuf.h for full documentation of this system.

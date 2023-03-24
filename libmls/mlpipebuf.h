@@ -1,15 +1,12 @@
 ///////////////////////////////////////////////////////////////
-//
-//  $Id: mlpipebuf.h,v 1.4 2002/05/31 21:13:48 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //
 //  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
+//  Copyright (c) 2001-2023, Bryan Hinton
 //  All rights reserved.
 //
 //  mlpipebuf.h
 //  Created by Bryan R. Hinton, on Tue Jun 26 2001, 21:50:47 CDT
-//
-//  Copyright (C) 2001
 //
 //  File Contents: Interface and documentation of the mlpipebuf component.
 //

@@ -1,7 +1,7 @@
-# $Id: Makefile,v 1.1 2002/05/20 22:22:11 alliz Exp $
-
+# SPDX-License-Identifier: GPL-2.0-only
+#
 # MLStreams
-# Copyright (c) 2001-2002, Bryan Hinton
+# Copyright (c) 2001-2023, Bryan Hinton
 # All rights reserved.
 
 include Make.defines

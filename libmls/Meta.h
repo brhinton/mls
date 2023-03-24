@@ -1,15 +1,12 @@
 ///////////////////////////////////////////////////////////////
-//
-//  $Id: Meta.h,v 1.3 2002/07/26 22:39:50 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //
 //  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
+//  Copyright (c) 2001-2023, Bryan Hinton
 //  All rights reserved.
 //
 //  Meta.h
 //  Created by Bryan R. Hinton, on Wed Jul 04 2001, 20:01:21 CDT
-//
-//  Copyright (C) 2001
 //
 //  File Contents: Interface and documentation of the Meta component.
 //

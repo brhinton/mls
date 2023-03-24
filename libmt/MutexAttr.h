@@ -1,15 +1,12 @@
 ///////////////////////////////////////////////////////////////
-//
-//  $Id: MutexAttr.h,v 1.3 2002/05/18 21:30:16 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //
 //  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
+//  Copyright (c) 2001-2023, Bryan Hinton
 //  All rights reserved.
 //
 //  MutexAttr.h
 //  Created by Bryan R. Hinton, on Mon Jul 02 2001, 17:36:34 CDT
-//
-//  Copyright (C) 2001
 //
 //  File Contents: Interface and documentation of the MutexAttr component.
 //

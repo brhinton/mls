@@ -1,15 +1,12 @@
 ///////////////////////////////////////////////////////////////
-//
-//  $Id: Trace.cpp,v 1.2 2002/05/18 21:26:23 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //
 //  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
+//  Copyright (c) 2001-2023, Bryan Hinton
 //  All rights reserved.
 //
 //  Trace.cpp
 //  Created by Bryan R. Hinton, on Sun Jun 17 2001, 22:02:04 CDT
-//
-//  Copyright (C) 2001
 //
 //  File Contents: Implementation of the Trace component.
 //  Please see Trace.h for full documentation of this system.

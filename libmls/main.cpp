@@ -1,11 +1,9 @@
-// $Id: main.cpp,v 1.4 2002/08/03 23:46:31 alliz Exp $
-
-//  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
-//  All rights reserved.
-
+// SPDX-License-Identifier: GPL-2.0-only
+// MLStreams
+// Copyright (c) 2001-2023, Bryan Hinton
+// All rights reserved.
+//
 // main.cpp
-// Copyright (C) 2001
 
 #include "libmls/mlstream.h"
 #include <strings.h>

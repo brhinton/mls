@@ -1,11 +1,10 @@
 ///////////////////////////////////////////////////////////////
-//
-//  $Id: CondAttr.h,v 1.2 2002/05/17 21:48:01 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //
 //  CondAttr.h
 //  Created by Bryan R. Hinton, on Mon Jul 02 2001, 17:34:03 CDT
 //
-//  Copyright (C) 2001
+//  Copyright (C) 2001-2023
 //
 //  Permission is granted to use this code without restriction,
 //  as long as this copyright notice appears in all source files.

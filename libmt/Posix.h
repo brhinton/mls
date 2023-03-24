@@ -1,6 +1,6 @@
-// $Id: Posix.h,v 1.3 2002/05/18 21:30:16 alliz Exp $
+//  SPDX-License-Identifier: GPL-2.0-only
 //  MLStreams
-//  Copyright (c) 2001-2002, Bryan Hinton
+//  Copyright (c) 2001-2023, Bryan Hinton
 //  All rights reserved.
 
 #ifndef POSIX_H
